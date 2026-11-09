@@ -32,5 +32,4 @@ The firmware is developed for the ESP8266 platform and includes wireless network
 Refer to the project documentation for hardware configuration and additional setup details.
 
 ## Attribution
-
 This firmware includes code derived from the ESP8266 Deauther project by SpacehuhnTech. Refer to the upstream repository for original licensing, attribution, and redistribution requirements.
